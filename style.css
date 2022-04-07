@@ -11,6 +11,7 @@ body {
   height: 85px;
   background-color: #ffffff;
   float: left;
+  
 }
 .logo {
   width: 80px;
@@ -26,22 +27,20 @@ body {
   color: #cfcfcf;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
+  cursor: pointer;
 }
 .search i {
   position: absolute;
-  margin-top: 35px;
+  margin-top: 20px;
   margin-left: 40%;
 }
-.car-background {
-  width: 100%;
-  height: 800px;
-  position: relative;
-}
+
 .e-tron {
   width: 100%;
   height: 700px;
   object-fit: cover;
   object-position: center;
+  margin-top: 30px;
 }
 .text {
   position: absolute;
